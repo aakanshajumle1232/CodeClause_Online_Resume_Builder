@@ -28,7 +28,7 @@ class Resume extends JFrame implements ActionListener {
     JTextField experience = null;
     JPasswordField password = null;
     JPasswordField cpassword = null;
-    JFrame p = new JFrame("Created By Vikash Kumar- Online Resume Builder");
+    JFrame p = new JFrame("Online Resume Builder");
     JComboBox cb;
 
     Resume() {
